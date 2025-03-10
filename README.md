@@ -1,4 +1,5 @@
-# Data-Cleaning-and-Analysis: Titanic Data Cleaning and Analysis  
+# Data-Cleaning-and-Analysis:  
+--Titanic Data Cleaning and Analysis  
 
 **Overview**  
 This repository contains a Python script for preprocessing the Titanic dataset. The script loads raw data, cleans and structures it, and performs exploratory analysis to understand survival trends.  
